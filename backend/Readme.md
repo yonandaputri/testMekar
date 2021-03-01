@@ -12,6 +12,7 @@ Tabel:
 - User
 - Pendidikan
 - Pekerjaan
+
 View:
 - user_detail --> meringkas pemanggilan untuk menampilkan data user sampai ke pendidikan terakhir dan pekerjaannya
 
